@@ -1,10 +1,10 @@
 BUILD = build
-BOOKNAME = my-book
-TITLE = title.txt
+BOOKNAME = RecipeTea2
+TITLE = title3.txt
 METADATA = metadata.xml
-CHAPTERS = ch01.md ch02.md
+CHAPTERS = ch01soups.md ch02simple.md ch03mains.md ch04sides.md ch05desserts.md ch06specials.md
 TOC = --toc --toc-depth=2
-COVER_IMAGE = images/cover.jpg
+COVER_IMAGE = ../Photos/StephAliceCookingClassIndiaIMG_2834.JPG
 LATEX_CLASS = report
 
 all: book

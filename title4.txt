@@ -1,0 +1,6 @@
+---
+title: Alice and Michael's afternoon/recipe tea
+author: Recipes contributed by family and friends
+date: Collected 2015 (tea); published 2016 
+cover-image: ../Photos/TriciaQinceTartTartin.pdf
+---
